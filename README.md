@@ -10,7 +10,7 @@ project build using Webpack https://webpack.github.io/
 
 ## Game Instructions
 
-Use your mouse to put red pieces into the board.\nYour goal is to get four of them in a row \nvertically, horizontally or diagonally
+Use your mouse to put red pieces into the board. Your goal is to get four of them in a row vertically, horizontally or diagonally
 
 ## Getting started
 
